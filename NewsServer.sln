@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsServer", "NewsServer\NewsServer.csproj", "{B399677D-CE04-486A-B2F2-338F0F1D0039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libraryAPI.Test", "libraryAPI.Test\libraryAPI.Test.csproj", "{36E0380A-F4BC-4A28-A575-7636E54A598D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B399677D-CE04-486A-B2F2-338F0F1D0039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B399677D-CE04-486A-B2F2-338F0F1D0039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B399677D-CE04-486A-B2F2-338F0F1D0039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B399677D-CE04-486A-B2F2-338F0F1D0039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E0380A-F4BC-4A28-A575-7636E54A598D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E0380A-F4BC-4A28-A575-7636E54A598D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E0380A-F4BC-4A28-A575-7636E54A598D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E0380A-F4BC-4A28-A575-7636E54A598D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11D9168D-7C12-4309-A459-A3FE2BC6EC75}
+	EndGlobalSection
+EndGlobal
